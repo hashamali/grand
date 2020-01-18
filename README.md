@@ -10,5 +10,5 @@ Generates rand strings of a specified length with optional seed types.
 
 #### Testing
 
-None. ‾\\_(ツ)_/‾
+None. ‾\\\_(ツ)\_/‾
 
