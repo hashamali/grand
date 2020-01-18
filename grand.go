@@ -1,4 +1,4 @@
-package grand 
+package grand
 
 import (
 	"math/rand"
