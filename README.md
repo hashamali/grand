@@ -1,6 +1,10 @@
-## grand
+# grand
+[![godoc](https://godoc.org/github.com/hashamali/grand?status.svg)](http://godoc.org/github.com/hashamali/grand)
+[![sec](https://img.shields.io/github/workflow/status/hashamali/grand/security?label=security&style=flat-square)](https://github.com/hashamali/grand/actions?query=workflow%3Asecurity)
+[![go-report](https://goreportcard.com/badge/github.com/hashamali/grand)](https://goreportcard.com/report/github.com/hashamali/grand)
+[![license](https://badgen.net/github/license/hashamali/grand)](https://opensource.org/licenses/MIT)
 
-Generates rand strings of a specified length with optional seed types.
+Generates random strings of a specified length with optional seed types.
 
 #### Methods
 
@@ -11,4 +15,3 @@ Generates rand strings of a specified length with optional seed types.
 #### Testing
 
 None. ‾\\\_(ツ)\_/‾
-
